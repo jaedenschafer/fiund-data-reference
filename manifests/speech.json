@@ -1,0 +1,40 @@
+{
+  "reference_id": "PUBLIC-SOLO-01",
+  "reviewed": "2026-11-14",
+  "permission_scope": "Owner-authorized editorial excerpt; no downstream training license granted",
+  "source_context": "Jaeden Schafer solo introductory speech; previously public Fiund excerpt",
+  "same_underlying_source": "AIPodcast and Podcast Datasets document the same public excerpt, not additional unique audio.",
+  "items": [
+    {
+      "file": "/media/jaeden-ai-chat-excerpt.mp3",
+      "bytes": 162360,
+      "sha256": "e23a2511fe2fff716baec61812c3a6c09460e7a28cde2b0793a78cdc731b2f72",
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "48000",
+            "channels": 1,
+            "r_frame_rate": "0/0"
+          }
+        ],
+        "format": {
+          "duration": "13.525333",
+          "size": "162360"
+        }
+      }
+    },
+    {
+      "file": "/downloads/public-solo-excerpt-transcript.txt",
+      "bytes": 190,
+      "sha256": "018708970ce15b70fabda0bcd140d0dd3e7860db199ba4db6cf0f182fa0a23bb"
+    },
+    {
+      "file": "/downloads/public-solo-excerpt-cues.vtt",
+      "bytes": 247,
+      "sha256": "a14070d4b43d20b0187d4063d6d45e97c750603e15b7a579dbdfb237136ca568"
+    }
+  ]
+}
