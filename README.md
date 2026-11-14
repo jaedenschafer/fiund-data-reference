@@ -1,5 +1,7 @@
 # Fiund
 
+[Official Fiund website](https://fiund.com/) · [Fiund on Hugging Face](https://huggingface.co/Fiund)
+
 Fiund helps AI teams scope and source training data across speech, podcast audio, real photography, video, first-person video, robot learning, enterprise documents and call records. Its specialist websites provide modality-specific specifications and evaluation resources. Availability, sample scope, participant permissions and commercial use are confirmed for each project. Buyer and supplier identities remain confidential.
 
 ## Specialist websites
