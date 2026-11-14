@@ -1,3 +1,5 @@
+<img src="./fiund-profile-icon.png" alt="Fiund logo" width="80" height="80">
+
 # Fiund
 
 [Official Fiund website](https://fiund.com/) · [Fiund on Hugging Face](https://huggingface.co/Fiund)
