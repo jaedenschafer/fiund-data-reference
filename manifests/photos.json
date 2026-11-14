@@ -1,0 +1,78 @@
+{
+  "reference_id": "PUBLIC-PHOTO-01",
+  "reviewed": "2026-11-14",
+  "permission_scope": "Owner-authorized editorial display; no commercial training license granted",
+  "file_count": 7,
+  "items": [
+    {
+      "file": "/media/sets-living-room-cam2.jpg",
+      "width": 1600,
+      "height": 900,
+      "bytes": 296506,
+      "sha256": "70148129d460aac353b2213bd006b0cfce34348e57972076b0c0abf04dd69ae6",
+      "public_source_url": "https://qswerazrpejkkgemjrfu.supabase.co/storage/v1/object/public/images/az/sets/living-room/cam2.jpg",
+      "set_group": "living-room",
+      "evidence": "Previously published owner-authorized studio reference photography; not a training-license grant"
+    },
+    {
+      "file": "/media/sets-living-room-cam1.jpg",
+      "width": 1600,
+      "height": 900,
+      "bytes": 208085,
+      "sha256": "a3b01b9176a59c182451ae89b38548bab7a28aa7fbc77d09fef470c7a58f69d9",
+      "public_source_url": "https://qswerazrpejkkgemjrfu.supabase.co/storage/v1/object/public/images/az/sets/living-room/cam1.jpg",
+      "set_group": "living-room",
+      "evidence": "Previously published owner-authorized studio reference photography; not a training-license grant"
+    },
+    {
+      "file": "/media/sets-living-room-cam3.jpg",
+      "width": 1600,
+      "height": 900,
+      "bytes": 198280,
+      "sha256": "144ea8d9c31f8386528442651e328fe8206045f6c42f94b5e07b28c5364ec3ff",
+      "public_source_url": "https://qswerazrpejkkgemjrfu.supabase.co/storage/v1/object/public/images/az/sets/living-room/cam3.jpg",
+      "set_group": "living-room",
+      "evidence": "Previously published owner-authorized studio reference photography; not a training-license grant"
+    },
+    {
+      "file": "/media/sets-blue-chairs-cam2.jpg",
+      "width": 1600,
+      "height": 900,
+      "bytes": 202173,
+      "sha256": "b65d03fe0aebad71141e3d0ab9320f539073c489251757299554f41c2c8af2ef",
+      "public_source_url": "https://qswerazrpejkkgemjrfu.supabase.co/storage/v1/object/public/images/az/sets/blue-chairs/cam2.jpg",
+      "set_group": "blue-chair",
+      "evidence": "Previously published owner-authorized studio reference photography; not a training-license grant"
+    },
+    {
+      "file": "/media/sets-blue-chairs-cam1.jpg",
+      "width": 1600,
+      "height": 900,
+      "bytes": 112877,
+      "sha256": "9b5cb1ed30b4265b79f087bf3402ba3a2fab5a8736726593425d4f790edb632c",
+      "public_source_url": "https://qswerazrpejkkgemjrfu.supabase.co/storage/v1/object/public/images/az/sets/blue-chairs/cam1.jpg",
+      "set_group": "blue-chair",
+      "evidence": "Previously published owner-authorized studio reference photography; not a training-license grant"
+    },
+    {
+      "file": "/media/sets-blue-chairs-cam3.jpg",
+      "width": 1600,
+      "height": 900,
+      "bytes": 126073,
+      "sha256": "669dadbd6638bd16400424fc895451f4c0f4b6dbb1a86357e3d43369d9ca2ed6",
+      "public_source_url": "https://qswerazrpejkkgemjrfu.supabase.co/storage/v1/object/public/images/az/sets/blue-chairs/cam3.jpg",
+      "set_group": "blue-chair",
+      "evidence": "Previously published owner-authorized studio reference photography; not a training-license grant"
+    },
+    {
+      "file": "/media/sets-office-cam1.jpg",
+      "width": 1600,
+      "height": 900,
+      "bytes": 210682,
+      "sha256": "1c9f94ccc8547d27fb27c55764e5d9c31ade2dccaa1e8aed933629d480efaba2",
+      "public_source_url": "https://qswerazrpejkkgemjrfu.supabase.co/storage/v1/object/public/images/az/sets/office/cam1.jpg",
+      "set_group": "office",
+      "evidence": "Previously published owner-authorized studio reference photography; not a training-license grant"
+    }
+  ]
+}
