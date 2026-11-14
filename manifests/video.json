@@ -1,0 +1,24 @@
+{
+  "file": "/media/studio-conversations.mp4",
+  "bytes": 1750092,
+  "sha256": "0f01213da51705409d26ceb62b759172bfe8a7ea9ec220382965d2107854180a",
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1280,
+        "height": 720,
+        "r_frame_rate": "24/1"
+      }
+    ],
+    "format": {
+      "duration": "14.250000",
+      "size": "1750092"
+    }
+  },
+  "permission_scope": "Public editorial studio montage; no commercial training license",
+  "source_page": "https://www.podcaststudioaz.com/",
+  "source_media": "https://www.podcaststudioaz.com/videos/hero-bg.mp4"
+}
